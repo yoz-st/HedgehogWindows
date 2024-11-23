@@ -1,1 +1,2 @@
-# HedgehogWindows
+# Hedgehog Windows
+The coziest Winodws tool
